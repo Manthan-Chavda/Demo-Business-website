@@ -1,0 +1,6 @@
+{
+  "name": "Denis's Place - Boutique Outback Cabins Boulia",
+  "description": "Boutique cabin accommodation in Boulia, Queensland 4829. Modern comfort in the Land of the Min Min Light.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
